@@ -1,0 +1,7 @@
+# Idea
+.idea
+*.iml
+
+# React Project
+node_modules
+build
